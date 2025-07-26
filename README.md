@@ -35,4 +35,13 @@ Although Grafana supports advanced alerting, alerts were not configured in this 
 
 Trigger alert if CPU usage > 80%
 Trigger alert if disk usage > 90%
-OUTPUT
+
+OUTPUT :
+
+
+
+
+
+
+
+
