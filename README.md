@@ -38,6 +38,14 @@ Trigger alert if CPU usage > 80%
 Trigger alert if disk usage > 90%
 
 OUTPUT:
+<img width="1919" height="1079" alt="17536012529763582100179483804910" src="https://github.com/user-attachments/assets/3c79df03-c163-41e2-bebc-532ca1d9bf85" />
+<img width="1919" height="1069" alt="1753601316157155610146799563699" src="https://github.com/user-attachments/assets/aabf5287-f849-4331-83d9-8e3d16044e1e" />
+
+
+<img width="1919" height="1078" alt="17536013356794712248919506489660" src="https://github.com/user-attachments/assets/ab3a68f1-43ac-41f8-875e-3145838fb56b" />
+
+
+
 
 
 
