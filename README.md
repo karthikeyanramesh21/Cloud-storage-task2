@@ -10,6 +10,7 @@ DOMAIN: CLOUD COMPUTING
 DURATION: 4 WEEEKS
 
 🌐 Internship Task 2 - Grafana Cloud Monitoring Dashboard
+
 🧩 Descripton
 This project is part of my internship Task 2, where I set up a cloud-based monitoring dashboard using Grafana Cloud and Prometheus. The objective was to create a basic monitoring solution that visualizes key system metrics such as CPU usage, memory usage, disk usage, and network activity. I used Grafana's free cloud tier to build and configure the dashboard and added visualizations using example Prometheus metrics.
 
@@ -36,10 +37,7 @@ Although Grafana supports advanced alerting, alerts were not configured in this 
 Trigger alert if CPU usage > 80%
 Trigger alert if disk usage > 90%
 
-OUTPUT :
-
-
-
+OUTPUT:
 
 
 
